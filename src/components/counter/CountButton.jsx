@@ -5,5 +5,4 @@ const CountButton = (props) => {
     </button>
   );
 };
-
 export default CountButton;
